@@ -1,0 +1,18 @@
+#
+#  These are comment lines.  These and empty lines should be ignored
+#
+     
+  user1 password1 attrName1:value1-1  attrName2:value2-1  attrName3:value3-1  attrName4:value4-1
+    user2 password2 attrName1:value1-2  attrName2:value2-2  attrName3:value3-2  attrName4:value4-2
+user3 password3 attrName1:value1-3  attrName2:value2-3  attrName3:value3-3  attrName4:value4-3
+  user4 password4 attrName1:value1-4  attrName2:value2-4  attrName3:value3-4  attrName4:value4-4
+user5 password5 attrName1:value1-5  attrName2:value2-5  attrName3:value3-5  attrName4:value4-5
+user6 password6 attrName1:value1-6  attrName2:value2-6  attrName3:value3-6  attrName4:value4-6
+
+user7 password7 
+
+user8 password8 attrName1:value1-8   attrName4:value4-8
+
+edward edward01 first_name:Edward last_name:Winston email:ewinston@periscopeholdings.com org:ADSPO ssoid:SSOID-00001
+buyspeed buyspeed first_name:System last_name:Administrator email:ewinston@periscopeholdings.com org:ADSPO ssoid:SSOID-00002
+internal admin first_name:Edward IA last_name:Winston email:ewinston@periscopeholdings.com org:ADSPO ssoid:SSOID-00003
